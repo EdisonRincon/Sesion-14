@@ -4,5 +4,5 @@ document.addEventListener("DOMContentLoaded", function(){
         const introSection=document.getElementById("intro");
         introSection.innerHTML = " <p> El texto ha cambiado después de hacer click en el botón!!</p>";
     });
-})
+});
    
