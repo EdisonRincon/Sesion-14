@@ -10,3 +10,26 @@ header{
     padding: 1em;
     text-align: center;
 }
+main{
+    padding: 2em;
+}
+button{
+    padding: o.5em 1em;
+    background-color: rgb(78, 97, 84) ;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(41, 228, 41);
+}
+footer{
+    background-color: rgb(68, 163, 68) ;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+
+}
