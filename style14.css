@@ -73,6 +73,7 @@ section{
 #nav-toggle img {
   width: 30px;
   height: auto;
+  border: 2px solid red; /* 👈 Para ver si el contenedor aparece */
 }
 /* Responsive Design */ 
 @media (max-width: 768px) { 
