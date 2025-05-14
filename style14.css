@@ -10,6 +10,7 @@ header{
     width: 100%;
     top: 0;
     z-index: 1000;
+    position: fixed;
 }
 nav{
     display: flex;
@@ -37,22 +38,6 @@ nav ul li a{
 nav ul li a:hover{
     background-color: #555;
 }
-#home{
-    height: 100vh;
-    background-color: #4f4f4f;
-}
-#about{
-    height: 100vh;
-    background-color: #4f4f4f;
-}
-#services{
-    height: 100vh;
-    background-color: #4f4f4f;
-}
-#contact{
-    height: 100vh;
-    background-color: #4f4f4f;
-}
 main{
     margin-top: 1.5em;
     padding: 2em;
@@ -60,4 +45,21 @@ main{
 section{
     padding: 2em 0;
 }
+#home{
+    height: 20vh;
+    background-color: #4f4f4f;
+}
+#about{
+    height: 20vh;
+    background-color: #4f4f4f;
+}
+#services{
+    height: 20vh;
+    background-color: #4f4f4f;
+}
+#contact{
+    height: 20vh;
+    background-color: #4f4f4f;
+}
+
     
